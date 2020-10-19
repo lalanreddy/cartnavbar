@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/cartnavbar/static/css/main.5f361e03.chunk.css",
+    "main.js": "/cartnavbar/static/js/main.a4fde186.chunk.js",
+    "main.js.map": "/cartnavbar/static/js/main.a4fde186.chunk.js.map",
+    "runtime-main.js": "/cartnavbar/static/js/runtime-main.58ed8f54.js",
+    "runtime-main.js.map": "/cartnavbar/static/js/runtime-main.58ed8f54.js.map",
+    "static/css/2.f65acde2.chunk.css": "/cartnavbar/static/css/2.f65acde2.chunk.css",
+    "static/js/2.e15f8438.chunk.js": "/cartnavbar/static/js/2.e15f8438.chunk.js",
+    "static/js/2.e15f8438.chunk.js.map": "/cartnavbar/static/js/2.e15f8438.chunk.js.map",
+    "index.html": "/cartnavbar/index.html",
+    "precache-manifest.24813c499ff38b9a71dcc8396d2885d8.js": "/cartnavbar/precache-manifest.24813c499ff38b9a71dcc8396d2885d8.js",
+    "service-worker.js": "/cartnavbar/service-worker.js",
+    "static/css/2.f65acde2.chunk.css.map": "/cartnavbar/static/css/2.f65acde2.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/cartnavbar/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.e15f8438.chunk.js.LICENSE.txt": "/cartnavbar/static/js/2.e15f8438.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58ed8f54.js",
+    "static/css/2.f65acde2.chunk.css",
+    "static/js/2.e15f8438.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.a4fde186.chunk.js"
+  ]
+}
